@@ -4,5 +4,5 @@
 - https://github.com/topics/barnes-hut-algorithm
 - https://www.cs.princeton.edu/courses/archive/fall03/cs126/assignments/barnes-hut.html
 
--https://infinitylearn.com/surge/gravitational-force-formula/
+- https://infinitylearn.com/surge/gravitational-force-formula/
    F = G * m1 * m2 / r²
